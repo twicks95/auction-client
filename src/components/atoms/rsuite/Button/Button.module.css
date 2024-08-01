@@ -1,0 +1,6 @@
+.customHeight {
+  /* height: 200px; */
+  @apply px-4 py-3;
+  /* @apply bg-blue-600; */
+  /* background-color: black; */
+}
